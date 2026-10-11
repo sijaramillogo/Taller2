@@ -16,7 +16,7 @@ except NameError:
 #prueba de creacion de ramas en git 2
 DATOS= HERE / "datos_energia.csv"
 
-
+#comentario de compañero juan camilo mejia
 app = dash.Dash(
     __name__,
     meta_tags=[{"name": "viewport", "content": "width=device-width, initial-scale=1"}],
